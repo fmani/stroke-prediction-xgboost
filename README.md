@@ -1,4 +1,7 @@
-# stroke-prediction-xgboost
+## Analysis of the stroke prediction dataset employing the XGBoost Classifier
+
+**If not available on GitHub, the notebook can be accessed on [nbviewer](https://nbviewer.jupyter.org/github/fmani/stroke-prediction-xgboost/blob/main/xgboost-classification-with-smoteenn-f-1-0-33.ipynb), or alternatively on [Kaggle](https://www.kaggle.com/florianomanigrasso/xgboost-classification-with-smoteenn-f-1-0-33)**
+
 Analysis of the Stroke Prediction Dataset provided on [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 > Context
 > According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for   
